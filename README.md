@@ -35,4 +35,8 @@ Kindly Put the Following fields in your ```.env``` file.
 
 ## Working
 
-![Flowchart](AI-Bot.png)
+Watch this [Demo video](https://youtu.be/xTlvS7EfSAQ) for better understanding :)
+
+* Flowchart Diagram
+
+     ![Flowchart](AI-Bot.png)
